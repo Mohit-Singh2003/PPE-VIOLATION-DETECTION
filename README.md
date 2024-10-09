@@ -48,7 +48,18 @@ Ensure the following are installed before proceeding:
    ```
 
 ## Key Features
-- [Highlight the major features of the PPE violation detection system. For example: real-time violation detection, integration with video streams, accuracy metrics, etc.]
+
+### 1. Reduces Injuries
+- The system identifies individuals without proper PPE, significantly lowering the risk of workplace injuries.
+
+### 2. Enhances Safety
+- By ensuring compliance with safety protocols, the system enhances overall safety capabilities within the organization.
+
+### 3. Reduces Security Costs
+- Automating PPE violation detection can help minimize security costs associated with manual monitoring and compliance checks.
+
+### 4. Automated Notifications
+- The system operates fully automated, providing timely notifications to relevant personnel regarding PPE violations.
 
 ## Technical Overview
 The project utilizes the following technologies and algorithms:
